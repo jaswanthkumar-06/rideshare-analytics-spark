@@ -1,7 +1,7 @@
 # RideShare Analytics Data Engineering Project
 
 ## Overview
-This project simulates a ride-sharing analytics data warehouse using PySpark and PostgreSQL.
+This project simulates a ride-sharing analytics data warehouse using PySpark and SQL.
 
 ## Architecture
 Raw CSV → PySpark Cleaning → Warehouse Tables → SQL Analytics → Pandas Reporting
